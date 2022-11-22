@@ -1,0 +1,1 @@
+/home/cx/Documents/rust/url_shortner/backend/target/release/backend: /home/cx/Documents/rust/url_shortner/backend/src/gen_url.rs /home/cx/Documents/rust/url_shortner/backend/src/main.rs /home/cx/Documents/rust/url_shortner/backend/src/sqlite_lib.rs

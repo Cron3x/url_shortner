@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/cx/Documents/rust/url_shortner/backend/target/release/build/typenum-398017e094ee7987/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/cx/Documents/rust/url_shortner/backend/target/release/build/typenum-398017e094ee7987/out/op.rs
